@@ -63,6 +63,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # add login/logout
 gem 'devise'
-
 # add jquery
-gem "jquery-rails"
+gem 'jquery-rails'
